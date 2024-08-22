@@ -1,7 +1,3 @@
-import sys
-
-
-print(sys.version)
 greetings="man !"
 print(greetings)
 print("hello there")
