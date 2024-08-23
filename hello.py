@@ -10,3 +10,9 @@ print("python programming language")
 
 print("python is wonderful to learn\n Its the easiest to learn")
 
+a="Awesome"
+print("Python is"  +a)
+
+# comments in python
+# 1. # symbol for single line quote
+# 2.  ''' or """ triple double or single qoutes
